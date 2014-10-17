@@ -1,3 +1,8 @@
+Planning to extend it to download all images from an account.
+
+Input: Account name, download folder path
+Output: Images!!!
+
 1. Get the URL of the instagram image you want to download.
 2. Run instagram-dl.py from the terminal
 3. 
